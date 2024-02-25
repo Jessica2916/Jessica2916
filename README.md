@@ -15,7 +15,7 @@
 <br>
  
 ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
- ![Snake animation](https://github.com/Jessica2916/Jessica2916/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/Jessica2916/blob/output/github-contribution-grid-snake.svg)
 
 <div> 
   <a href="https://www.instagram.com/karol_martins9916/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
